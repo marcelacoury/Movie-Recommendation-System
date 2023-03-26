@@ -10,3 +10,5 @@ And 2 non-personalized recommender:
 
 * Most-Popular: the one that recommends the most popular items
 * Best-Rated: the one that recommends the items who was rated with higher grades
+
+For the development of the project, the MovieLens dataset was used: https://grouplens.org/datasets/movielens/
