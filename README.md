@@ -12,3 +12,8 @@ And 2 non-personalized recommender:
 * Best-Rated: the one that recommends the items who was rated with higher grades
 
 For the development of the project, the MovieLens dataset was used: https://grouplens.org/datasets/movielens/
+
+The project was divided into 2 deliveries:
+
+* Recommended_movies_A: Introduction, Importing liberies and datasets, Exploratory Data Analysis, Prepocessing data and Data visualization
+* Recommended_movies_B: Data Preparation for Machine Learning, Machine Learning Model, Evaluation Metrics
